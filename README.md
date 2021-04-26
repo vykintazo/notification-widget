@@ -8,5 +8,5 @@ Uses:
 
 # Run instructions
 1. First install dependencies by running `yarn install`
-2. To start local server, execute `yarn run` and go to [localhost:3000](http://localhost:3000) in your browser
+2. To start local server, execute `yarn start` and go to [localhost:3000](http://localhost:3000) in your browser
 3. For production build, run `yarn build`
